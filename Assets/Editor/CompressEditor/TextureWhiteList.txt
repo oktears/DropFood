@@ -1,0 +1,10 @@
+Assets/Res/Atlas/Holdem/holdem_notes_lable_bg.png,
+Assets/Res/Atlas/Holdem/texasReport_bg.png,
+Assets/Res/Atlas/Holdem/holdem_mask_video_bottom.png,
+Assets/Res/Atlas/Holdem/holdem_mask_video_bottom5.png,
+Assets/Res/Atlas/Holdem/holdem_mask_video_middle.png,
+Assets/Res/Atlas/Holdem/holdem_mask_video_middle5.png,
+Assets/Res/Atlas/Holdem/holdem_mask_video_top.png,
+Assets/Res/Atlas/Holdem/holdem_mask_video_top5.png,
+Assets/Res/Atlas/CommonStandard/common_head_mask_new.png,
+Assets/Res/Spine/BaseBall_Receiver/ballfolder1.png,Assets/Res/Spine/Hall_Rukou/rukou_boxed.png,Assets/Res/Spine/Hall_Rukou/rukou_Ferris wheel.png,Assets/Res/Spine/Hall_Rukou/rukou_mtt.png,Assets/Res/Texture/CommonStandard/common_match_clubItemBg.png,Assets/Res/Atlas/Common/image_default_head_ant1.png,Assets/Res/Atlas/CommonStandard/image_default_head_ant.png,Assets/Res/Atlas/CommonStandard/image_main_banner_default.png,Assets/Res/Atlas/CommonStandard/image_noitem.png
